@@ -24,6 +24,6 @@ Aqui estão alguns resumos da matéria de SO, juntamente com anotações e arqui
 # ***______________________***
 
 ### Prova. 
-**Um brece resumo de alguns dos topicos que cairam na prova**
+**Um breve resumo de alguns dos topicos que cairam na prova**
 - ***https://github.com/NicollasRezende/Resumo-do-Conteudo-que-Caiu-na-Prova***
 # ***______________________***
